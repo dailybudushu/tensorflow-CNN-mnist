@@ -17,8 +17,13 @@
 
 1. structured a basic CNN Model
 
-    Follow the tutorial of tensorflow. I struct this model with two convolution layer, a fully connected layer and an output layer. Each convolution layer
- ![img](https://github.com/dailybudushu/img/blob/master/cnn-struct.png?raw=true)
+    Follow the tutorial of tensorflow. I struct this model with two convolution layer, a fully connected layer and an output layer. Each convolution layer get one convolution which size is 5x5 and max pooling layer is 2x2
+
+     ![img](https://raw.githubusercontent.com/dailybudushu/img/master/cnn-struct.png?token=ArRqPGHeGn_RSBrl0TmHqkhp3HDUeHliks5cSyaMwA%3D%3D)
 
 2. structured loss of classification
-3. 
+
+    I use Cross entropy as loss
+
+3. visualize result
+
