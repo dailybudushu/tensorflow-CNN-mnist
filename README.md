@@ -19,7 +19,7 @@
 
     Follow the tutorial of tensorflow. I struct this model with two convolution layer, a fully connected layer and an output layer. Each convolution layer get one convolution which size is 5x5 and max pooling layer is 2x2
 
-     ![img](img/histogram.png)
+     ![img](img/graph.png)
 
 2. structured loss of classification
 
